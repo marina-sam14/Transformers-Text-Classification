@@ -1,6 +1,3 @@
-# Project Title
-BERT Fine-Tuning and Hyperparameter Tuning for Sentiment Analysis
-
 ## Overview
 This project aims to fine-tune a pre-trained BERT model for sentiment analysis, with a focus on hyperparameter tuning. The primary objectives include optimizing the model's task-specific layers and determining the number of frozen BERT encoder blocks. The tuning process is conducted on the development subset of the dataset to enhance performance.
 
